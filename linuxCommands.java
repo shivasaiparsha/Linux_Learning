@@ -4,9 +4,7 @@ public class  NewClass{
 
        System.out.println("hello world");
    
-       System.out.println("Welcome to Kritter");
-
-        System.out.println("here we go");  
+   
    }
 }
 
